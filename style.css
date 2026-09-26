@@ -129,6 +129,4 @@
       .counter-unit { min-width: 54px; }
       .counter-unit span { font-size: 1.7rem; }
       .counter-unit label { font-size: 0.62rem; letter-spacing: 0.1rem; }
-      /* hide seconds on very small screens to keep it tidy */
-      .counter-unit.seconds-unit { display: none; }
     }
